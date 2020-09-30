@@ -1,6 +1,6 @@
-<h1>Simple christmas countdown</h1>
+<h1>Simple Quiz app(without API)</h1>
 
-This is a javascript project to create a object oriented christmas countdown clock that shows the remaining time and date until christmas. I used the date object to calculate the remaining time for christmas.
+This is a javascript project to create a quiz or questionnaires type application that will allow user to participate in playing quiz or answer list of questions to fill a survey.
 
 <img src="images/picture1.PNG" alt="projectimg">
 
@@ -15,7 +15,7 @@ CSS
 Javascript
 
 <h2>Live Demo</h2>
-https://christmascountdown-2020.netlify.app/
+https://simplequiz-2020.netlify.app/
 
 <h2>Getting Started</h2>
 To get a local copy up and running follow these simple example steps.
